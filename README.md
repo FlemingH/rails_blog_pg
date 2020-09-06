@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 And remember bundle update
+Then rails server
